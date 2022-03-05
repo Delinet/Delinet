@@ -1,4 +1,4 @@
-[![Delinet Badge](https://img.shields.io/badge/Delinet-software%20developer%20-blue)
+[![Delinet Badge](https://img.shields.io/badge/Delinet-software%20developer%20-blue)](http://www.antoniocandela.it)
 
 ### Hi there 👋
 
@@ -46,6 +46,5 @@ Find out more about me & feel free to connect with me here:
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Delinet&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Delinet&hide=TeX&layout=compact)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Delinet&hide=TeX,css,html,php&layout=compact)
 <!--![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=)-->
