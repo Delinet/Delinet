@@ -46,5 +46,5 @@ Find out more about me & feel free to connect with me here:
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Delinet&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Delinet&hide=css,html,php,javascript&custom_title=Last%20Used%20Languages&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Delinet&hide=css,html,php&custom_title=Last%20Used%20Languages&layout=compact)
 <!--![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=)-->
