@@ -1,3 +1,5 @@
+[![Delinet Badge](https://img.shields.io/badge/Delinet-software%20developer%20-blue)
+
 ### Hi there 👋
 
 <!--
@@ -24,6 +26,9 @@ Find out more about me & feel free to connect with me here:
 ## ⚡ Technologies
 
 ![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=Swift)
+![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=Flutter)
+![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=Dart)
+![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=Kotlin)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
