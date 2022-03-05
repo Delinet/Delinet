@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Antonio Candela AKA Delinet a passionate software developer aim to improve human life with stunning apps. Technology addict I'm working as iOS, Flutter and Python developer ideas. 
+I'm Antonio Candela AKA Delinet a passionate software developer aim to improve human life with stunning apps. Technology addict I'm working as iOS, Flutter and Python developer on projects and innovative/disruptive ideas.
 Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-antoniocandela-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoniocandela/)](https://www.linkedin.com/in/antoniocandela/)
