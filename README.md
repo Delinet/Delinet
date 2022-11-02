@@ -48,3 +48,7 @@ Find out more about me & feel free to connect with me here:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Delinet&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Delinet&hide=css,html,php&custom_title=Last%20Used%20Languages&layout=compact)
 <!--![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=)-->
+
+## 📘 Tutorials, Snippets and more
+<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+[![FlutterMania](https://github-readme-stats.vercel.app/api/pin/?username=Delinet&repo=FlutterMania)](https://github.com/Delinet/FlutterMania)
